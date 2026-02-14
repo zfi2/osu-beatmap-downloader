@@ -78,9 +78,9 @@ files are saved in this format: `{beatmapset_id} {artist} - {title}.osz`
 
 ## troubleshooting
 
-**authentication failed**: double-check your client ID and client secret in your `.env` file
-**missing dependencies**: run `cargo build` to install all required dependencies
-**rate limited**: the tool should handle this automatically, if not, you just have to wait and re-run the tool later
+1. **authentication failed**: double-check your client ID and client secret in your `.env` file
+2. **missing dependencies**: run `cargo build` to install all required dependencies
+3. **rate limited**: the tool should handle this automatically, if not, you just have to wait and re-run the tool later
 
 ## license
 
