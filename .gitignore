@@ -1,0 +1,21 @@
+# Rust build
+/target
+Cargo.lock
+
+# Environment variables
+.env
+
+# Output files
+osu_most_played_maps.json
+osu_download_links.txt
+osu_most_played_maps.csv
+
+# Downloaded beatmaps
+beatmaps/
+
+# IDE stuff
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
