@@ -1,7 +1,7 @@
 # osu! beatmap downloader
 
 a command-line tool to fetch and download all your most played osu! beatmaps (which in theory, includes all the beatmaps you've ever played).
-useful for new osu! installs
+useful for new osu! installs.
 
 ## features
 
